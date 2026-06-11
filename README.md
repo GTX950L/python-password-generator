@@ -1,5 +1,13 @@
 # 🔐 随机密码生成器
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Level](https://img.shields.io/badge/练习-初学者-blue?style=flat-square)
+
+</div>
+
 一个用 Python 编写的命令行密码生成工具，支持自定义长度和字符类型，附带密码强度评估。
 
 ## ✨ 功能
